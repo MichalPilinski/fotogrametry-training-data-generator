@@ -1,0 +1,3 @@
+D:/Repositories/bsc/DataGenerator/DataGenerator/Dependencies/glm/out/build/x64-Debug (default)/CMakeFiles/glm_dummy.dir
+D:/Repositories/bsc/DataGenerator/DataGenerator/Dependencies/glm/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+D:/Repositories/bsc/DataGenerator/DataGenerator/Dependencies/glm/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir

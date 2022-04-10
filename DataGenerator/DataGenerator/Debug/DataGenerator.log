@@ -1,0 +1,44 @@
+﻿  DirectLight.cpp
+  LightBuilder.cpp
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\lightsbuilder.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\lightsbuilder.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\lightsbuilder.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\lightsbuilder.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PointLight.cpp
+  Spotlight.cpp
+  Compiling...
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  DataGenerator.vcxproj -> C:\Users\Michau\Documents\bsc-thesis\DataGenerator\Debug\DataGenerator.exe
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\shader.h(17): warning C26495: Variable 'Shader::ID' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\background.h(29): warning C26495: Variable 'Background::VAO' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\background.cpp(7): warning C26495: Variable 'Background::VAO' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\glm\detail\type_vec2.inl(46): warning C26495: Variable 'glm::tvec2<signed char,0>::<anonymous-tag>::<anonymous-tag>::x' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\glm\detail\type_vec4.inl(182): warning C26495: Variable 'glm::tvec4<short,0>::<anonymous-tag>::<anonymous-tag>::x' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\camera.cpp(5): warning C26495: Variable 'Camera::Zoom' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\light.h(13): warning C26495: Variable 'Light::Vertices' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\glad.c(180): warning C6308: 'realloc' might return null pointer: assigning null pointer to 'exts_i', which is passed as an argument to 'realloc', will cause the original memory block to be leaked.
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\light.cpp(5): warning C26495: Variable 'Light::Vertices' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\spotlight.h(9): warning C26495: Variable 'SpotLight::CutOff' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\lightsbuilder.h(14): warning C26495: Variable 'LightsBuilder::Constant' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\light.h(43): warning C26495: Variable 'Light::Vertices' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\mesh.cpp(5): warning C26495: Variable 'Mesh::VAO' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\mesh.h(31): warning C26495: Variable 'Texture::id' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\types.h(130): warning C26495: Variable 'aiPlane::a' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\types.h(165): warning C26495: Variable 'aiColor3D::r' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\mesh.h(150): warning C26495: Variable 'aiFace::mNumIndices' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\mesh.h(213): warning C26495: Variable 'aiVertexWeight::mWeight' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\mesh.h(258): warning C26495: Variable 'aiBone::mWeights' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\mesh.h(381): warning C26495: Variable 'aiAnimMesh::mTextureCoords' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\mesh.h(613): warning C26495: Variable 'aiMesh::mColors' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\anim.h(69): warning C26495: Variable 'aiVectorKey::mTime' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\anim.h(110): warning C26495: Variable 'aiQuatKey::mTime' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\anim.h(154): warning C26495: Variable 'aiMeshKey::mValue' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\model.cpp(5): warning C26495: Variable 'Model::width' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\assimp\include\assimp\vector3.h(70): warning C26495: Variable 'aiVector3t<float>::z' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\mesh.h(52): warning C26495: Variable 'Mesh::VAO' is uninitialized. Always initialize a member variable (type.6).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\stb_image.h(1841): warning C26453: Arithmetic overflow: Left shift of a negative signed number is undefined behavior (io.4).
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\stb_image.h(3701): warning C6001: Using uninitialized memory 'coutput'.
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\dependencies\stb_image.h(3727): warning C6262: Function uses '18200' bytes of stack:  exceeds /analyze:stacksize '16384'.  Consider moving some data to heap.
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\textureservice.cpp(29): warning C6001: Using uninitialized memory 'format'.
+c:\users\michau\documents\bsc-thesis\datagenerator\datagenerator\viewbuilder.cpp(5): warning C26495: Variable 'ViewBuilder::TexturesPathArray' is uninitialized. Always initialize a member variable (type.6).

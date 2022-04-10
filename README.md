@@ -1,1 +1,0 @@
-# fotogrametry-training-data-generator
